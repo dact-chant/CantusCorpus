@@ -1,0 +1,826 @@
+feast_code,LFRI_name
+01000000,In tempore Adventus
+01001000,"Adv., dom."
+01007000,"Adv., sabb."
+01011000,"Adventus, dom. 1"
+01012000,"Adv., hebd. 1, fer. 2"
+01013000,"Adv., hebd. 1, fer. 3"
+01014000,"Adv., hebd. 1, fer. 4"
+01015000,"Adv., hebd. 1, fer. 5"
+01016000,"Adv., hebd. 1, fer. 6"
+01017000,"Adv., hebd. 1, sabbato"
+01018000,"Adv., hebd 1"
+01021000,"Adventus, dom. 2"
+01022000,"Adv., hebd. 2, fer. 2"
+01023000,"Adv., hebd. 2, fer. 3"
+01024000,"Adv., hebd. 2, fer. 4"
+01025000,"Adv., hebd. 2, fer. 5"
+01026000,"Adv., hebd. 2, fer. 6"
+01027000,"Adv., hebd. 2, sabbato"
+01028000,"Adv., hebd. 2"
+01031000,"Adventus, dom. 3"
+01032000,"Adv., hebd. 3, fer. 2"
+01033000,"Adv., hebd. 3, fer. 3"
+01034000,"Adv., hebd. 3, fer. 4"
+01034009,"Adv., hebd. 3, fer. 4 Q.T."
+01035000,"Adv., hebd. 3, fer. 5"
+01036000,"Adv., hebd. 3, fer. 6"
+01036009,"Adv., hebd. 3, fer. 6 Q.T."
+01037000,"Adv., hebd. 3, sabbato"
+01037009,"Adv., hebd. 3, sabbato Q.T."
+01038000,"Adv., hebd. 3"
+01041000,"Adventus, dom. 4"
+01042000,"Adv., hebd. 4, fer. 2"
+01043000,"Adv., hebd. 4, fer. 3"
+01044000,"Adv., hebd. 4, fer. 4"
+01045000,"Adv., hebd. 4, fer. 5"
+01046000,"Adv., hebd. 4, fer. 6"
+01047000,"Adv., hebd. 4, sabbato"
+01048000,"Adv., hebd. 4"
+01048010,"Adv., Antiphonae Majores"
+02010100,"Nativitas Domini, oct."
+02010108,"Nativitas Domini, hebd. p. oct."
+02010110,Circumcisio Domini
+02010400,"Nat. Innocentium, oct."
+02010500,"Epiphania, vig."
+02122100,Die 5 a. Nat. Domini
+02122400,"Nativitas Domini, vig."
+02122500,Nativitas Domini
+02122508,"Nativitas Domini, infra oct."
+02122600,Stephani
+02122608,"Stephani, infra oct."
+02122700,Joannis Evang.
+02122708,"Joannis Evang., infra oct."
+02122800,Nat. Innocentium
+02122808,"Nat. Innocentium, infra oct."
+02122900,Die 5 p. Nat. Domini
+02123000,Die 6 p. Nat. Domini
+02123100,Die 7 p. Nat. Domini
+03000000,In tempore Nat.
+03021000,Dom. p. Nat. Dom.
+03031000,Dom. p. Oct. Nat.
+04000000,Fest. per annum
+04001000,Dom. per annum
+04002000,Fer. 2 per annum
+04003000,Fer. 3 per annum
+04004000,Fer. 4 per annum
+04005000,Fer. 5 per annum
+04006000,Fer. 6 per annum
+04007000,Sabbato per annum
+04008000,Hebd. per annum
+05000000,In tempore Epiph.
+05001000,Dom. p. Epiphaniam
+05010600,Epiphania
+05010608,"Epiphania, infra oct."
+05010700,Die 2 p. Epiph.
+05010800,Die 3 p. Epiph.
+05010900,Die 4 p. Epiph.
+05011000,Die 5 p. Epiph.
+05011010,Dom. 1 p. Epiph.
+05011100,Die 6 p. Epiph.
+05011300,"Epiphania, oct."
+05021000,Dom. 2 p. Epiph.
+05022000,"Hebd. 2 p. Epiph., fer. 2"
+05023000,"Hebd. 2 p. Epiph., fer. 3"
+05024000,"Hebd. 2 p. Epiph., fer. 4"
+05025000,"Hebd. 2 p. Epiph., fer. 5"
+05026000,"Hebd. 2 p. Epiph., fer. 6"
+05027000,"Hebd. 2 p. Epiph., sabbato"
+05031000,Dom. 3 p. Epiph.
+05041000,Dom. 4 p. Epiph.
+05051000,Dom. 5 p. Epiph.
+05061000,Dom. 6 p. Epiph.
+06011000,"Septuagesimae, dom."
+06012000,"Septuag., fer. 2"
+06013000,"Septuag., fer. 3"
+06014000,"Septuag., fer. 4"
+06015000,"Septuag., fer. 5"
+06016000,"Septuag., fer. 6"
+06017000,"Septuag., sabbato"
+06018000,"Septuag., hebd."
+06021000,"Sexagesimae, dom."
+06022000,"Sexag., fer. 2"
+06023000,"Sexag., fer. 3"
+06024000,"Sexag., fer. 4"
+06025000,"Sexag., fer. 5"
+06026000,"Sexag., fer. 6"
+06027000,"Sexag., sabbato"
+06028000,"Sexag., hebd."
+06031000,"Quinquagesimae, dom."
+06032000,"Quinquag., fer. 2"
+06033000,"Quinquag., fer. 3"
+06034000,Fer. 4 Cinerum
+06035000,Fer. 5 post Cineres
+06036000,Fer. 6 post Cineres
+06037000,Sabbato post Cineres
+06038000,"Quinquag., hebd."
+07000000,In tempore Quadragesimae
+07001000,"Quadrag., dom."
+07002000,"Quadrag., fer. 2"
+07003000,"Quadrag., fer. 3"
+07004000,"Quadrag., fer. 4"
+07005000,"Quadrag., fer. 5"
+07006000,"Quadrag., fer. 6"
+07007000,"Quadrag., sabb."
+07010009,Q. T. Quadragesimae
+07011000,"Quadragesima, dom. 1"
+07012000,"Quadrag., hebd. 1, fer. 2"
+07013000,"Quadrag., hebd. 1, fer. 3"
+07014000,"Quadrag., hebd. 1, fer. 4"
+07014009,"Quadrag., hebd. 1, fer. 4 Q.T."
+07015000,"Quadrag., hebd. 1, fer. 5"
+07016000,"Quadrag., hebd. 1, fer. 6"
+07016009,"Quadrag., hebd. 1, fer. 6 Q.T."
+07017000,"Quadrag., hebd. 1, sabbato"
+07018000,"Quadrag., hebd. 1"
+07021000,"Quadragesima, dom. 2"
+07022000,"Quadrag., hebd. 2, fer. 2"
+07023000,"Quadrag., hebd. 2, fer. 3"
+07024000,"Quadrag., hebd. 2, fer. 4"
+07025000,"Quadrag., hebd. 2, fer. 5"
+07026000,"Quadrag., hebd. 2, fer. 6"
+07027000,"Quadrag., hebd. 2, sabbato"
+07028000,"Quadrag., hebd. 2"
+07031000,"Quadragesima, dom. 3"
+07032000,"Quadrag., hebd. 3, fer. 2"
+07033000,"Quadrag., hebd. 3, fer. 3"
+07034000,"Quadrag., hebd. 3, fer. 4"
+07035000,"Quadrag., hebd. 3, fer. 5"
+07036000,"Quadrag., hebd. 3, fer. 6"
+07037000,"Quadrag., hebd. 3, sabbato"
+07038000,"Quadrag., hebd. 3"
+07041000,"Quadragesima, dom. 4"
+07042000,"Quadrag., hebd. 4, fer. 2"
+07043000,"Quadrag., hebd. 4, fer. 3"
+07044000,"Quadrag., hebd. 4, fer. 4"
+07045000,"Quadrag., hebd. 4, fer. 5"
+07046000,"Quadrag., hebd. 4, fer. 6"
+07047000,"Quadrag., hebd. 4, sabbato"
+07048000,"Quadrag., hebd. 4"
+07051000,Dom. de Passione
+07052000,Fer. 2 de Passione
+07053000,Fer. 3 de Passione
+07054000,Fer. 4 de Passione
+07055000,Fer. 5 de Passione
+07056000,Fer. 6 de Passione
+07057000,Sabb. de Passione
+07058000,Hebd. de Passione
+07061000,Dom. in Palmis
+07062000,Fer. 2 Maj. Hebd.
+07063000,Fer. 3 Maj. Hebd.
+07064000,Fer. 4 Maj. Hebd.
+07065000,Fer. 5 in Cena Dom.
+07065010,Ad Mandatum
+07066000,Fer. 6 in Parasceve
+07067000,Sabbato Sancto
+07068000,Hebd. Sancta
+07069000,In Triduum
+08000000,In tempore Paschae
+08008000,Hebd. TP
+08011000,Dom. Resurrectionis
+08011008,"Dom. Resurrect., infra oct."
+08012000,Fer. 2 p. Pascha
+08013000,Fer. 3 p. Pascha
+08014000,Fer. 4 p. Pascha
+08015000,Fer. 5 p. Pascha
+08016000,Fer. 6 p. Pascha
+08017000,Sabbato in Albis
+08021000,Dominica in Albis (Octava Paschae)
+08022000,"Pasc., hebd. 2, fer. 2"
+08023000,"Pasc., hebd. 2, fer. 3"
+08024000,"Pasc., hebd. 2, fer. 4"
+08025000,"Pasc., hebd. 2, fer. 5"
+08026000,"Pasc., hebd. 2, fer. 6"
+08027000,"Pasc., hebd. 2, sabbato"
+08028000,"Pasc., hebd. 2"
+08031000,Dom. 2 p. Pascha
+08032000,"Pasc., hebd. 3, fer. 2"
+08033000,"Pasc., hebd. 3, fer. 3"
+08034000,"Pasc., hebd. 3, fer. 4"
+08035000,"Pasc., hebd. 3, fer. 5"
+08036000,"Pasc., hebd. 3, fer. 6"
+08037000,"Pasc., hebd. 3, sabbato"
+08038000,"Pasc., hebd. 3"
+08041000,Dom. 3 p. Pascha
+08042000,"Pasc., hebd. 4, fer. 2"
+08042500,In Letaniis maj.
+08043000,"Pasc., hebd. 4, fer. 3"
+08044000,"Pasc., hebd. 4, fer. 4"
+08045000,"Pasc., hebd. 4, fer. 5"
+08046000,"Pasc., hebd. 4, fer. 6"
+08047000,"Pasc., hebd. 4, sabbato"
+08048000,"Pasc., hebd. 4"
+08051000,Dom. 4 p. Pascha
+08052000,"Pasc., hebd. 5, fer. 2"
+08053000,"Pasc., hebd. 5, fer. 3"
+08054000,"Pasc., hebd. 5, fer. 4"
+08055000,"Pasc., hebd. 5, fer. 5"
+08056000,"Pasc., hebd. 5, fer. 6"
+08057000,"Pasc., hebd. 5, sabbato"
+08058000,"Pasc., hebd. 5"
+08061000,Dom. 5 p. Pascha
+08062000,Fer. 2 in Letaniis
+08063000,Fer. 3 in Letaniis
+08064000,Fer. 4 in Letaniis
+08064001,"Ascensio Domini, vig."
+08065000,Ascensio Domini
+08065008,"Ascensio Domini, infra oct."
+08066000,Fer. 6 p. Ascensio.
+08067000,Sabb. p. Ascensio.
+08068010,In Letaniis
+08071000,Dom. p. Ascensio.
+08072000,Fer. 2 p. Ascensio.
+08073000,Fer. 3 p. Ascensio.
+08074000,Fer. 4 p. Ascensio.
+08075000,"Ascensio Domini, oct."
+08077000,"Pent., vig."
+08081000,Pentecostes
+08081008,"Pent., infra oct."
+08082000,"Pent., fer. 2"
+08083000,"Pent., fer. 3"
+08084000,"Pent., fer. 4"
+08084009,"Pent., fer. 4 Q.T."
+08085000,"Pent., fer. 5"
+08086000,"Pent., fer. 6"
+08086009,"Pent., fer. 6 Q.T."
+08087000,"Pent., sabbato"
+08087009,"Pent., sabbato Q.T."
+08091000,"Pentecostes, oct."
+09008000,"Pent., hebd."
+09011000,Sanctissimae Trinitatis
+09011008,"SS. Trinitatis, infra oct."
+09011010,Dom. 1 p. Pent.
+09012000,"SS. Trinitatis, fer. 2"
+09013000,"SS. Trinitatis, fer. 3"
+09014000,"SS. Trinitatis, fer. 4"
+09015000,Corporis Christi
+09015008,"Corporis Christi, infra oct."
+09016000,Fer. 6 p. Cor. Christi
+09017000,Sabb. p. Cor. Christi
+09021000,Dom. 2 p. Pent.
+09021010,Dom. p. Cor. Christi
+09022000,Fer. 2 p. Cor. Christi
+09023000,Fer. 3 p. Cor. Christi
+09024000,Fer. 4 p. Cor. Christi
+09025000,"Corporis Christi, oct."
+09026010,Sacratissimi Cordis Jesu
+09031000,Dom. 3 p. Pent.
+09041000,Dom. 4 p. Pent.
+09051000,Dom. 5 p. Pent.
+09061000,Dom. 6 p. Pent.
+09071000,Dom. 7 p. Pent.
+09081000,Dom. 8 p. Pent.
+09091000,Dom. 9 p. Pent.
+09101000,Dom. 10 p. Pent.
+09111000,Dom. 11 p. Pent.
+09121000,Dom. 12 p. Pent.
+09131000,Dom. 13 p. Pent.
+09141000,Dom. 14 p. Pent.
+09151000,Dom. 15 p. Pent.
+09161000,Dom. 16 p. Pent.
+09171000,Dom. 17 p. Pent.
+09181000,Dom. 18 p. Pent.
+09191000,Dom. 19 p. Pent.
+09201000,Dom. 20 p. Pent.
+09211000,Dom. 21 p. Pent.
+09221000,Dom. 22 p. Pent.
+09231000,Dom. 23 p. Pent.
+09241000,Dom. 24 p. Pent.
+09251000,Dom. 25 p. Pent.
+09261000,Dom. 26 p. Pent.
+09991010,Dom. ultima ante Adventum
+10001000,Dom. in estate
+10002000,Fer. 2 in estate
+10003000,Fer. 3 in estate
+10004000,Fer. 4 in estate
+10005000,Fer. 5 in estate
+10006000,Fer. 6 in estate
+10007000,Sabbatis in estate
+10100000,De Regum
+10200000,De Sapientia
+10300000,De Job
+10400000,De Tobia
+10500000,De Judith
+10600000,De Esther
+10700000,De Esdras
+10800000,De Machabaeis
+10900000,De Prophetis
+11080100,Dom. mensis Augusti
+11090100,Dom. mensis Septembris
+11090409,Fer. 4 Q.T. Septembris
+11090609,Fer. 6 Q.T. Septembris
+11090709,Sabb. Q.T. Septembris
+11100100,Dom. mensis Octobris
+11110100,Dom. mensis Novembris
+12001000,Comm. Apostolorum
+12001008,"Comm. Apostolorum, infra oct."
+12001010,"Comm. Apostolorum, vig."
+12001100,Comm. unius Apostoli
+12001110,"Comm. unius Apostoli, vig."
+12001200,Comm. duorum Apostolorum
+12002000,Comm. unius Martyris
+12002100,Comm. unius Martyris Pontificis
+12002200,Comm. unius Martyris non Pontificis
+12003000,Comm. plurimorum Martyrum
+12004000,Comm. unius Confessoris
+12004100,Comm. unius Confessoris Pontificis
+12004200,Comm. unius Confessoris Abbatis
+12004300,Comm. unius Confessoris et Episcopi
+12004400,Comm. unius Confessoris non Episcopus
+12004500,Comm. unius Doctoris
+12004700,Comm. unius Confessoris non Pontificis
+12005000,Comm. plurimorum Confessorum
+12005100,Comm. plurimorum Confessorum Pontificum
+12005200,Comm. plurimorum Confessorum non Pontificum
+12006000,Comm. plurimorum Virginum
+12007000,Comm. unius Virginis Martyris
+12007100,Comm. unius Virginis
+12008000,In Dedicatione Ecclesiae
+12010000,Comm. unius Abbatis
+12011000,Comm. Evangelistarum
+12012000,Comm. Conjungium
+12013000,De Angelis
+12019000,Comm. Apostolorum et Evangelistarum
+12022000,Comm. unius Electae
+12801000,Comm. Apostolorum TP
+12801100,Comm. Apostolorum sive Martyrum TP
+12802000,Comm. unius Martyris TP
+12802300,Comm. Martyrum sive Confessorum TP
+12803000,Comm. plurimorum Martyrum TP
+12804000,Comm. unius Confessoris TP
+12804100,Comm. unius Confessoris Pontificis TP
+12804700,Comm. unius Confessoris non Pontificis TP
+12807100,Comm. unius Virginis TP
+12811000,Comm. Evangelistarum TP
+12815000,Comm. Sanctorum atque Sanctarum TP
+13001000,Pro defunctis
+14010300,Genovefae
+14011010,Pauli Heremitae
+14011400,Hilarii
+14011410,Felicis Nolani
+14011430,Nominis Jesu
+14011510,Mauri
+14011600,"Marcelli, Pont."
+14011630,Sanctorum Quinque Martyrum Ordinis Minorum
+14011700,Antonii
+14011720,Speusippi
+14011800,Priscae
+14011900,"Marii, Marthae, Audifacis et Abaci"
+14012000,"Fabiani, Sebastiani"
+14012100,Agnetis
+14012200,Vincentii
+14012210,Anastasii
+14012230,"Vincentii, Orontii, Victoris"
+14012300,Emerentianae
+14012301,Ildefonsi
+14012400,Timothei
+14012500,"Pauli, conversio"
+14012600,Polycarpi
+14012610,Paulae
+14012700,Joannis Chrysostomi
+14012710,"Juliani, episcopi"
+14012800,"Agnetis, oct."
+14012830,Joannis Reomensis
+14012930,Francisci Salesii
+14020110,Ignatii
+14020200,Purificatio Mariae [Presentationis Domini]
+14020300,Blasii
+14020308,"Blasii, infra oct."
+14020500,Agathae
+14020508,"Agathae, infra oct."
+14020900,Apolloniae
+14021000,Scholasticae
+14021010,"Blasii, oct."
+14021200,Humbelinae
+14021320,"Bartholomaei, transl."
+14021400,Valentini
+14022200,Cathedra Petri
+14022210,Margaritae Cortonensis
+14022400,Matthiae
+14030700,Thomae de Aquino
+14030710,"Perpetuae, Felicitatis"
+14030900,Quadraginta Martyrum
+14030920,Catharinae Bononiensis
+14031200,Gregorii
+14031800,Gabrielis
+14031900,Josephi
+14032010,Joachimi
+14032020,Martini Archiepiscopi Bracharensis
+14032100,Benedicti
+14032108,"Benedicti, infra oct."
+14032500,Annuntiatio Mariae
+14032501,"Annuntiatio Mariae, infra oct."
+14032508,"Annuntiatio Mariae, dom. infra oct."
+14032580,"Annuntiatio Mariae, TP"
+14040220,Francisci de Paola
+14040400,Ambrosii
+14040480,Ambrosii TP
+14040910,Hugonis
+14041210,Victoris Bracharensis
+14041300,Hermenegildi
+14041400,"Tiburtii, Valeriani, Maximi"
+14041410,Petri Gundisalvi
+14041610,Fructuosi Archiepiscopi Bracharensis
+14041700,Potentianae
+14041710,"Stephani, abbatis"
+14042300,Georgii
+14042310,Adalberti
+14042500,Marci
+14042610,Petri de Rates
+14042700,Franchae
+14042800,Vitalis et Valeriae
+14042900,"Petri, Mart."
+14042910,Roberti
+14042920,Catharinae Senensis
+14050100,"Philippi, Jacobi"
+14050200,Athanasii
+14050230,Mafaldae Reginae
+14050300,Inventio Crucis
+14050310,Alexandri et sociorum
+14050440,Monicae
+14050450,"Vincentii, transl. in Brachara"
+14050510,"Augustini, conv."
+14050600,Joannis Port. Lat.
+14050800,"Michaelis, Appar."
+14051000,"Gordiani, Epimachi"
+14051010,"Antonini, episcopi"
+14051210,Pancratii et sociorum
+14051240,"Nerei, Achillei"
+14051310,In dedicatione S. Mariae
+14051320,In dedicatione Basilicae BMV de Martyribus Ulyssipponensis
+14051330,Petri Regalati
+14051710,"Bernardini Senensis, transl."
+14051720,Paschalis Baylon
+14051910,"Pudentianae, Pudentis"
+14051930,Ivonis de Kermartin
+14052010,Bernardini Senensis
+14052510,Urbani
+14052520,Tres Mariae
+14052530,"Francisci, transl."
+14052620,Philippi Neri
+14053110,Petronillae
+14060110,Caprasii
+14060200,Marcellini et Petri
+14060400,Francisci Carracciolo
+14060900,"Primi, Feliciani"
+14061100,Barnabae
+14061200,Basilidis et soc.
+14061300,Antonii Patavini
+14061410,Elisei
+14061600,Quirici (Cyrici) et Julittae
+14061620,Lutgardae
+14061800,"Marci, Marcellini"
+14061900,"Gervasii, Protasii"
+14062120,Aloisii Gonzagae
+14062240,Decem Millium Martyrum
+14062300,"Joannis Baptistae, vig."
+14062400,Joannis Baptistae
+14062408,"Joannis Baptistae, infra oct."
+14062600,"Joannis, Pauli"
+14062800,Leonis
+14062810,"Petri et Pauli, vig."
+14062900,Petri et Pauli
+14062901,"Petri et Pauli, dom. infra oct."
+14062908,"Petri et Pauli, infra oct."
+14062910,Petri
+14063000,Pauli
+14063008,"Pauli, infra oct."
+14063010,Martialis
+14070100,"Joannis Baptistae, oct."
+14070110,Pretiosissimi Sanguinis
+14070200,Visitatio Mariae
+14070208,"Visitatio Mariae, infra oct."
+14070210,"Processi, Martiniani"
+14070400,"Martini, transl."
+14070600,"Petri et Pauli, oct."
+14070830,Elisabeth Reginae Portugalliae
+14070900,"Visitatio Mariae, oct."
+14071000,Septem Fratrum
+14071100,"Benedicti, transl."
+14071420,Bonaventurae
+14071610,BMV de Monte Carmelo
+14071720,Marinae
+14071730,Justae et Rufinae
+14071820,Camilli de Lellis
+14072010,Margaritae
+14072020,Eliae
+14072100,Praxedis
+14072110,Victoris et sociorum
+14072200,Mariae Magdalenae
+14072320,Apollinaris
+14072500,Jacobi
+14072508,"Jacobi, infra oct."
+14072510,Christophori
+14072610,Annae
+14072800,"Nazarii, Celsi"
+14072810,Samsonis
+14072900,Felicis
+14072920,Simplicii et sociorum
+14072930,Marthae
+14073000,"Abdonis, Sennis"
+14073100,Germani
+14080100,Vincula Petri
+14080200,"Stephani, pontificis"
+14080300,"Stephani, inventio"
+14080430,Dominici
+14080520,Mariae ad Nives
+14080530,Aemigdii
+14080600,Transfiguratio Domini
+14080610,Sixti et sociorum
+14080630,"Justi, Pastoris"
+14080700,Donati
+14080720,Alberti de Abbatibys
+14080800,Cyriaci et sociorum
+14080910,"Laurentii, vig."
+14081000,Laurentii
+14081008,"Laurentii, infra oct."
+14081100,"Tiburtii, Susannae"
+14081120,De Corona Spinea
+14081130,Taurini
+14081200,Clarae
+14081300,Hippolyti
+14081400,Eusebii Romanae
+14081410,"Assumptio Mariae, vig."
+14081500,Assumptio Mariae
+14081501,"Assumptio Mariae, dom. infra oct."
+14081508,"Assumptio Mariae, infra oct."
+14081700,"Laurentii, oct."
+14081800,Agapiti
+14081830,Helenae
+14081900,Ludovici Toul.
+14082010,Bernardi
+14082018,"Bernardi, infra oct."
+14082200,Symphoriani
+14082210,"Assumptio Mariae, oct."
+14082300,"Timothei, Apollinaris"
+14082320,"Bartholomaei, vig."
+14082400,Bartholomaei
+14082500,Ludovici
+14082530,Genesii
+14082700,Caesarii
+14082800,Augustini
+14082820,Rufi
+14082830,Hermetis
+14082860,"Juliani, Hermetis"
+14082900,"Jonnis Baptistae, decol."
+14082910,Sabinae
+14083000,"Felicis, Adaucti"
+14083130,"Bartholomaei, oct."
+14090100,Aegidii
+14090110,Lupi
+14090200,Antonini
+14090420,Marcelli
+14090700,Evurtii
+14090800,Nativitas Mariae
+14090801,"Nativitas Mariae, dom. infra octava"
+14090808,"Nativitas Mariae, infra oct."
+14090900,Gorgonii
+14091030,Nicolai de Tolentino
+14091100,"Proti, Hiacinthi"
+14091200,Sanctissimi Nominis BMV
+14091400,Exaltatio Crucis
+14091500,Reliquiarum
+14091530,Nicomedis
+14091540,"Nicomedis, Valeriani"
+14091550,BMV perdolentis (Matris dolorosae)
+14091560,"Vincentii, translatio"
+14091600,"Cornelii, Cypriani"
+14091610,Euphemiae
+14091701,Hildegardis Bingensis
+14091710,"Francisci, Sacrorum Stigmatum"
+14092010,Eustachii
+14092020,"Matthaei, vig."
+14092100,Matthaei
+14092108,"Matthaei, infra oct."
+14092200,Mauritii et sociorum
+14092300,Theclae
+14092310,"Clarae, inventio"
+14092700,"Cosmae, Damiani"
+14092900,Michaelis
+14093000,Hieronimi
+14093008,"Hieronimi, infra oct."
+14100100,Remigii
+14100200,Leodegarii
+14100220,Angeli Custodis
+14100340,"Clarae, transl."
+14100400,Francisci
+14100408,"Francisci, infra oct."
+14100600,Fidis
+14100610,Brunonis
+14100700,"Marci, Pont."
+14100730,BMV a Rosario
+14100820,"Sergii, Bacchi"
+14100900,Dionysii
+14101030,Francisci Borgiae
+14101120,"Augustini, transl. prima"
+14101300,Geraldi Aureliaci
+14101400,Callisti
+14101500,Teresiae Avilensis
+14101800,Lucae
+14101810,Justi
+14101920,Petri Alcantarae
+14101930,"Sabiniani, Potentiani"
+14102010,Irenes
+14102100,XI milium Virginum
+14102110,Ursulae
+14102210,Mariae Salome
+14102340,Joannis Capistranensis
+14102410,Raphaelis
+14102700,"Simonis, Judae, vig."
+14102800,"Simonis, Judae"
+14103010,De victoriae christianorum apud Salado
+14103120,"Om. Sanctorum, vig."
+14110100,Omnium Sanctorum
+14110108,"Omnium Sanctorum, infra oct."
+14110160,Austremonii
+14110200,Lauteni
+14110220,Malachiae
+14110360,"Valentini, Hylarii"
+14110400,Flori
+14110610,Leonardi
+14110800,Quattuor Coronatorum
+14110910,Theodori Tiro
+14111030,"Martini, vig."
+14111100,Martini
+14111101,"Martini, dom. infra oct."
+14111108,"Martini, infra oct."
+14111110,Mennae
+14111300,Briccii
+14111308,"Briccii, infra oct."
+14111340,Didaci
+14111550,Alberti Magni
+14111620,Edmundi Rich
+14111700,Gregorii Thauma.
+14111740,Hugonis Lincolniensis
+14111800,"Martini, oct."
+14111900,Elisabeth Hungariae
+14112100,Praesentatio Mariae
+14112200,Caeciliae
+14112208,"Caeciliae, infra oct."
+14112300,Clementis
+14112308,"Clementis, infra oct."
+14112310,Felicitatis
+14112500,Catharinae
+14112630,Leonardi a Porto Mauritio
+14112900,Saturnini
+14112910,"Chrysanthi, Dariae"
+14112920,"Andreae, vig."
+14113000,Andreae
+14113008,"Andreae, infra oct."
+14120300,Francisci Xaverii
+14120400,Barbarae
+14120510,Geraldi Archiepiscopi Bracharensis
+14120600,Nicolai
+14120710,"Andrae, oct."
+14120800,Conceptio Mariae
+14120900,Syri
+14120920,Leocadiae
+14121010,Eulaliae Emeritensis
+14121100,Damasi
+14121300,Luciae
+14121810,Exspectationis BMV
+14122100,Thomae
+14122900,Thomae Cant.
+14123020,"Jacobi, transl."
+14123100,Silvestri
+14123110,Columbae
+15001000,Suff. pro Pace
+15002000,De Spiritu Sancto
+15003000,Suff. pro paenitentibus
+15008000,De BMV
+15008010,De BMV Adv.
+15008030,De BMV Nat.
+15008050,De BMV post Epiph.
+15008080,De BMV TP
+15011000,De Sancta Cruce
+15031050,BMV ab Exsilio
+15050300,Suff. Crucis
+15050380,Suff. Crucis TP
+15081580,Suff. Mariae TP
+15110180,Suff. Omnium Sanctorum TP
+15122700,Suff. Joannis Evang.
+16009000,Ad Processionem
+16010000,Ad aquam benedictio
+16012000,Ad Missam
+16013000,Ad visitandum infirmum
+16013030,Pro infirmis
+16015000,De festis semiduplicibus
+16016000,De festis duplicibus
+16016001,De festis duplicibus minoribus
+16018000,In tempore pestilentiae
+16019000,Pro pace regni
+16019010,Pro pace
+16020000,Pro pluvia
+16021000,In tempore belli contra Sarracenos
+16022000,In tempore oritur inter Christianos
+16023000,Ad aspersionem aquae benedictae
+16023080,Ad aspersionem aquae benedictae TP
+16024000,Ad lavandum altaria
+16025000,Pro caritate
+16026000,Pro tribulatione
+16027000,Pro salute vivorum
+16028000,Pro sacerdote
+16029000,Pro amico
+16030000,Pro iter agentibus
+16031000,Pro febribus
+16033000,Pro ordinatione clerici
+16039000,De festis simplicibus
+16042000,Pro serenitate
+16044000,Pro sponso et sponsa
+16045000,Pro remissione peccatorum
+16050000,Pro quacumque necessitate
+16052000,Pro adversitate Ecclesiae
+17001000,Additamenta
+,"Quadrag., hebd. 1, sabbato Q.T."
+,Agnetis de Monte Politiano
+,Angeli
+,Angeli Custodis Regni
+,"Augustini, transl. secunda"
+,Benedicti Massarari
+,"Bernardi, oct."
+,BMV de Loreto
+,BMV de Pietate
+,BMV Reginae
+,Caietani Thienae
+,Catharinae de Ricci
+,Coletae Boylet
+,Compassionis BMV
+,Danielis et sociorum
+,Descensio Mariae
+,Desponsationis B. Mariae Virginis cum Sancto Joseph
+,Dismae
+,"Eutropii, Zozimae, Bonosae"
+,Felicis de Cantalicio
+,Fidelis de Sigmaringa
+,Francisci Solani
+,Fugae D. N. J. C. in Aegyptum
+,Guillermi
+,Gundisalvi de Amarantho
+,Gundisalvi de Lagos
+,"Hieronimi, transl."
+,Hieronimi Aemiliani
+,Hyacinthi
+,"Ignatii, confessoris"
+,Immaculati Cordis BMV
+,Isidori
+,Jacobi de Marchia
+,Joannae Franciscae de Chantal
+,Joannis a Cruce
+,Joannis Cantii (de Ketty)
+,Joannis Damasceni
+,Joannis Josephi a Cruce
+,Josephi Calasanctii
+,Josephi de Cupertino
+,Julianae de Falconeriis
+,Laurentii Giustiniani
+,Ludovici Bertrandi
+,Margarita Maria Alacoque
+,Mariae Magdalenae de Pazzis
+,Martinae
+,Maternitatis BMV
+,Norberti
+,Patrocinii Sancti Josephi
+,Petri Alexandrini
+,Petri Nolasco
+,Pii I
+,Pii V
+,Pulcheriae
+,Puritatis BMV
+,Quinque Plagarum Domini
+,Raymundi de Penyafort
+,Ritae de Cassia
+,Rochi
+,Rosae a S. Maria
+,Rosae Viterbiensis
+,Sanctissimi Redemptoris
+,Sanctorum Martyrum Japponensium (Petrus Baptista et soc.)
+,Sebastiani
+,Simonis
+,"Teresiae Avilensis, Transverberatio Cordis"
+,Theotonii
+,Thyrsi
+,Thyrsi et sociorum
+,Thomae de Villanova
+,Triumphi Sanctae Crucis apud Navas Tolosae
+,"Comm. sanctae Virginum tantum, et nec Virginis nec Martyris"
+,Ad recipiendum prelatum vel legatum
+,Cantica Canticorum
+,Cant. Canticorum Adv.
+,Cant. Canticorum post Epiph.
+,De Passione Domini
+,De planctu BMV
+,De sanctis Petri et Pauli
+,De Sanctissima Eucharistia
+,"De Trinitate, vot."
+,Ad tollendum schisma
+,Contra paganos
+,In anniversario electionis Episcopi
+,In tempore belli
+,Pro eligendo summo Pontifice
+,Pro fidei propagatione
+,Pro navigantibus
+,Pro peregrinantibus
+,Pro petione lachrimarum
+,Pro Regno Portugaliae
+,Pro unitate Ecclesiae
+,Pro vitanda mortalitate
