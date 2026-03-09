@@ -14,6 +14,7 @@ of this dataset is that the sum of all the editorial decisions made over the dat
 are being made available as a dataset for computational research, together with the PyCantus library
 that makes handling this dataset (almost) easy.
 
+Permanent link:  [http://hdl.handle.net/11234/1-6041](http://hdl.handle.net/11234/1-6041)
 ## Licence
 
 The CantusCorpus is released under a CC BY-NC-SA 4.0 license, just like the Cantus Index itself.
